@@ -161,8 +161,12 @@ justify-content: center;
 
 .footer {
   position: relative;
-  text-align: end;
+  text-align: center;
   background: rgb(0, 0, 0);
+  color: white;
+}
+.footer p,.footer a{
+  color: white;
 }
 .container2{
   align-items: center;
